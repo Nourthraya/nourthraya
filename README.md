@@ -23,7 +23,7 @@
 ## 🏆 **About Me**
 - 👩‍🎓 Final-year IT Engineer specializing in **Business Intelligence and Web Development**
 - 💡 Currently developing a billing & debt recovery platform at **Mazars** (internship project)
-- 🧠 Interested in **Deep Learning**, **Recommendation Systems**, and **Digital Marketing**
+- 🧠 Interested in **Machine Learning**, **Data Engineering**, and **Web Development**
 - 🚀 Passionate about building clean, scalable, and purpose-driven applications
 
 ---
