@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nourthraya@example.com">
+  <a href="mailto:thraya_nour@yahoo.com">
     <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nour-thraya-34ba0b1b4/" target="_blank">
