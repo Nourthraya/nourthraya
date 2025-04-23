@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nourthraya@example.com">
+  <a href="mailto:thraya_nour@yahoo.com">
     <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nourthraya-34ba0b1b4/" target="_blank">
@@ -23,7 +23,6 @@
 ## 🏆 **About Me**
 - 🎯 Full Stack Web Developer specialized in **MEAN stack, Spring Boot, and .NET**
 - 📊 Business Intelligence & Data Engineering with tools like **MSSQL, SSIS, SSAS, Talend & ETL pipelines**
-- ☁️ Strong focus on **Cloud & Automation** using AWS, Docker, Kubernetes & Terraform
 - 🚀 Passionate about building smart, scalable, and secure systems!
 
 ---
