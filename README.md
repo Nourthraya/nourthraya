@@ -56,10 +56,14 @@
 ---
 
 ## 🧠 **Currently Learning**
-- 🧑‍💻 Advanced Backend Structuring & Clean Code Practices
-- 🎯 SEO, Social Media, and Email Marketing (Digital Marketing Roadmap)
-- 🇪🇸 Spanish (Aiming for B1 Level)
-- 💸 Building Business Models (for a future sport-oriented private pool project)
+🔧 Deepening my expertise in the MERN stack to build robust and scalable web applications
+
+🧠 Exploring Natural Language Processing and Large Language Models for intelligent system design
+
+📊 Actively preparing for the Microsoft Power BI certification to strengthen my BI and data visualization skills
+
+🇪🇸 Learning Spanish, with a goal of reaching B1 proficiency level for better communication and cultural fluency
+
 
 ---
 
@@ -75,6 +79,6 @@
 
 ---
 
-### 🌟 *"Build with intention. Scale with purpose. Learn endlessly."*
+🌟 "Turn data into insight. Insight into impact. And impact into innovation."
 
 ---
